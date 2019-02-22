@@ -11,4 +11,4 @@ Questions:
 
 3.) When lowering the frequency in step four, what is going wrong? Brainstorm some solutions. Dimmers exist in the real world. What is their solution?
 
-Lowering the frequency causes a rapid flash on and off of the LED, since our eyes can see the changes of the led. In the real world
+Lowering the frequency causes a rapid flash on and off of the LED, since our eyes can see the changes of the led. The solution we thought of, and what more than likely is done in the real world for a smooth dimming is not altering the frequency when changing the duty cycle so the LED gets dimmer without our eyes catching any of the flashes that are brought on by a low frequency.
