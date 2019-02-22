@@ -12,5 +12,5 @@ void timedBlink (int interval){
 
 // the loop function runs over and over again forever
 void loop() {
-  timedBlink(1);                       
+  timedBlink(1); //change the 1 to 2, 3 or 4 for more of a delay                      
 }
